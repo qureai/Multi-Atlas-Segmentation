@@ -17,7 +17,7 @@ echo export ANTSPATH=`pwd`/bin/ >> ~/.bashrc
 source ~/.bashrc
 ```
 
-One ANTs is installed, run the following commands:
+Once ANTs is installed, run the following commands:
 
 ```
 $ git clone https://github.com/qureai/Multi-Atlas-Segmentation.git
