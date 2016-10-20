@@ -20,7 +20,7 @@ source ~/.bashrc
 Once ANTs is installed, run the following commands:
 
 ```
-$ git clone https://github.com/qureai/Multi-Atlas-Segmentation.git
+git clone https://github.com/qureai/Multi-Atlas-Segmentation.git
 cd Multi-Atlas-Segmentation
 bash multi-atlas-segmentation.sh
 ```
