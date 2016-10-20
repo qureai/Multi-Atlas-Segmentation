@@ -1,0 +1,1008 @@
+<?xml version="1.0"?>
+<LabelList>
+<Label>
+  <Name>3rd Ventricle</Name>
+  <Number>4</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+  <Name>4th Ventricle</Name>
+  <Number>11</Number>
+  <RGBColor>42 204 164</RGBColor>
+</Label>
+<Label>
+  <Name>5th Ventricle</Name>
+  <Number>15</Number>
+  <RGBColor>120 190 150</RGBColor>
+</Label>
+<Label>
+  <Name>Basal Forebrain</Name>
+  <Number>70</Number>
+  <RGBColor>255 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Brain Stem</Name>
+  <Number>35</Number>
+  <RGBColor>119 159 176</RGBColor>
+</Label>
+<Label>
+  <Name>CSF</Name>
+  <Number>46</Number>
+  <RGBColor>60 60 60</RGBColor>
+</Label>
+<Label>
+  <Name>CYAN</Name>
+  <Number>99</Number>
+  <RGBColor>0 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Cerebellar Vermal Lobules I-V</Name>
+  <Number>71</Number>
+  <RGBColor>184 237 194</RGBColor>
+</Label>
+<Label>
+  <Name>Cerebellar Vermal Lobules VI-VII</Name>
+  <Number>72</Number>
+  <RGBColor>180 231 250</RGBColor>
+</Label>
+<Label>
+  <Name>Cerebellar Vermal Lobules VIII-X</Name>
+  <Number>73</Number>
+  <RGBColor>225 183 231</RGBColor>
+</Label>
+<Label>
+  <Name>Heschls</Name>
+  <Number>13</Number>
+  <RGBColor>173 216 230</RGBColor>
+</Label>
+<Label>
+  <Name>Left ACgG  anterior cingulate gyrus</Name>
+  <Number>101</Number>
+  <RGBColor>255 62 150</RGBColor>
+</Label>
+<Label>
+  <Name>Left AIns  anterior insula</Name>
+  <Number>103</Number>
+  <RGBColor>160 82 45</RGBColor>
+</Label>
+<Label>
+  <Name>Left AOrG  anterior orbital gyrus</Name>
+  <Number>105</Number>
+  <RGBColor>165 42 42</RGBColor>
+</Label>
+<Label>
+  <Name>Left Accumbens Area</Name>
+  <Number>30</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left Amygdala</Name>
+  <Number>32</Number>
+  <RGBColor>103 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left Amygdala Anterior</Name>
+  <Number>34</Number>
+  <RGBColor>103 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left AnG   angular gyrus</Name>
+  <Number>107</Number>
+  <RGBColor>205 91 69</RGBColor>
+</Label>
+<Label>
+  <Name>Left Basal Forebrain</Name>
+  <Number>75</Number>
+  <RGBColor>180 180 180</RGBColor>
+</Label>
+<Label>
+  <Name>Left CO    central operculum</Name>
+  <Number>113</Number>
+  <RGBColor>135 206 235</RGBColor>
+</Label>
+<Label>
+  <Name>Left Calc  calcarine cortex</Name>
+  <Number>109</Number>
+  <RGBColor>100 149 237</RGBColor>
+</Label>
+<Label>
+  <Name>Left Caudate</Name>
+  <Number>37</Number>
+  <RGBColor>122 186 220</RGBColor>
+</Label>
+<Label>
+  <Name>Left Cerebellum Exterior</Name>
+  <Number>39</Number>
+  <RGBColor>96 204 96</RGBColor>
+</Label>
+<Label>
+  <Name>Left Cerebellum White Matter</Name>
+  <Number>41</Number>
+  <RGBColor>220 248 164</RGBColor>
+</Label>
+<Label>
+  <Name>Left Cerebral Exterior</Name>
+  <Number>43</Number>
+  <RGBColor>205 62 78</RGBColor>
+</Label>
+<Label>
+  <Name>Left Cerebral White Matter</Name>
+  <Number>45</Number>
+  <RGBColor>225 225 225</RGBColor>
+</Label>
+<Label>
+  <Name>Left CgG   cingulate gyrus</Name>
+  <Number>111</Number>
+  <RGBColor>100 50 100</RGBColor>
+</Label>
+<Label>
+  <Name>Left Cun   cuneus</Name>
+  <Number>115</Number>
+  <RGBColor>250 128 114</RGBColor>
+</Label>
+<Label>
+  <Name>Left Ent   entorhinal area</Name>
+  <Number>117</Number>
+  <RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left FO    frontal operculum</Name>
+  <Number>119</Number>
+  <RGBColor>221 160 221</RGBColor>
+</Label>
+<Label>
+  <Name>Left FRP   frontal pole</Name>
+  <Number>121</Number>
+  <RGBColor>0 238 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left FuG   fusiform gyrus</Name>
+  <Number>123</Number>
+  <RGBColor>205 92 92</RGBColor>
+</Label>
+<Label>
+  <Name>Left GRe   gyrus rectus</Name>
+  <Number>125</Number>
+  <RGBColor>176 48 96</RGBColor>
+</Label>
+<Label>
+  <Name>Left Hippocampus</Name>
+  <Number>48</Number>
+  <RGBColor>220 216 20</RGBColor>
+</Label>
+<Label>
+  <Name>Left IFG   inferior frontal gyrus</Name>
+  <Number>127</Number>
+  <RGBColor>0 206 209</RGBColor>
+</Label>
+<Label>
+  <Name>Left IOG   inferior occipital gyrus</Name>
+  <Number>129</Number>
+  <RGBColor>152 251 152</RGBColor>
+</Label>
+<Label>
+  <Name>Left IOrG  intermediate orbital gyrus</Name>
+  <Number>131</Number>
+  <RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left ITG   inferior temporal gyrus</Name>
+  <Number>133</Number>
+  <RGBColor>50 205 50</RGBColor>
+</Label>
+<Label>
+  <Name>Left Inf Lat Vent</Name>
+  <Number>50</Number>
+  <RGBColor>196 58 250</RGBColor>
+</Label>
+<Label>
+  <Name>Left Insula</Name>
+  <Number>65</Number>
+  <RGBColor>80 196 98</RGBColor>
+</Label>
+<Label>
+  <Name>Left LOrG  lateral orbital gyrus</Name>
+  <Number>137</Number>
+  <RGBColor>173 216 230</RGBColor>
+</Label>
+<Label>
+  <Name>Left Lateral Ventricle</Name>
+  <Number>52</Number>
+  <RGBColor>120 18 134</RGBColor>
+</Label>
+<Label>
+  <Name>Left Lesion</Name>
+  <Number>54</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left LiG   lingual gyrus</Name>
+  <Number>135</Number>
+  <RGBColor>0 100 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left MCgG  middle cingulate gyrus</Name>
+  <Number>139</Number>
+  <RGBColor>153 50 204</RGBColor>
+</Label>
+<Label>
+  <Name>Left MFC   medial frontal cortex</Name>
+  <Number>141</Number>
+  <RGBColor>160 32 240</RGBColor>
+</Label>
+<Label>
+  <Name>Left MFG   middle frontal gyrus</Name>
+  <Number>143</Number>
+  <RGBColor>0 206 209</RGBColor>
+</Label>
+<Label>
+  <Name>Left MOG   middle occipital gyrus</Name>
+  <Number>145</Number>
+  <RGBColor>51 50 135</RGBColor>
+</Label>
+<Label>
+  <Name>Left MOrG  medial orbital gyrus</Name>
+  <Number>147</Number>
+  <RGBColor>173 255 47</RGBColor>
+</Label>
+<Label>
+  <Name>Left MPoG  postcentral gyrus medial segment</Name>
+  <Number>149</Number>
+  <RGBColor>122 135 50</RGBColor>
+</Label>
+<Label>
+  <Name>Left MPrG  precentral gyrus medial segment</Name>
+  <Number>151</Number>
+  <RGBColor>135 50 74</RGBColor>
+</Label>
+<Label>
+  <Name>Left MSFG  superior frontal gyrus medial segment</Name>
+  <Number>153</Number>
+  <RGBColor>218 112 214</RGBColor>
+</Label>
+<Label>
+  <Name>Left MTG   middle temporal gyrus</Name>
+  <Number>155</Number>
+  <RGBColor>240 230 140</RGBColor>
+</Label>
+<Label>
+  <Name>Left OCP   occipital pole</Name>
+  <Number>157</Number>
+  <RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left OFC   orbitofrontal cortex</Name>
+  <Number>159</Number>
+  <RGBColor>255 110 180</RGBColor>
+</Label>
+<Label>
+  <Name>Left OFuG  occipital fusiform gyrus</Name>
+  <Number>161</Number>
+  <RGBColor>0 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left OpIFG opercular part of the inferior frontal gyrus</Name>
+  <Number>163</Number>
+  <RGBColor>100 50 100</RGBColor>
+</Label>
+<Label>
+  <Name>Left Operculum</Name>
+  <Number>67</Number>
+  <RGBColor>60 58 210</RGBColor>
+</Label>
+<Label>
+  <Name>Left OrIFG orbital part of the inferior frontal gyrus</Name>
+  <Number>165</Number>
+  <RGBColor>178 34 34</RGBColor>
+</Label>
+<Label>
+  <Name>Left PCgG  posterior cingulate gyrus</Name>
+  <Number>167</Number>
+  <RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left PCu   precuneus</Name>
+  <Number>169</Number>
+  <RGBColor>39 64 139</RGBColor>
+</Label>
+<Label>
+  <Name>Left PHG   parahippocampal gyrus</Name>
+  <Number>171</Number>
+  <RGBColor>255 99 71</RGBColor>
+</Label>
+<Label>
+  <Name>Left PIns  posterior insula</Name>
+  <Number>173</Number>
+  <RGBColor>255 69 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left PO    parietal operculum</Name>
+  <Number>175</Number>
+  <RGBColor>210 180 140</RGBColor>
+</Label>
+<Label>
+  <Name>Left POrG  posterior orbital gyrus</Name>
+  <Number>179</Number>
+  <RGBColor>74 155 60</RGBColor>
+</Label>
+<Label>
+  <Name>Left PP    planum polare</Name>
+  <Number>181</Number>
+  <RGBColor>255 215 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left PT    planum temporale</Name>
+  <Number>185</Number>
+  <RGBColor>46 139 87</RGBColor>
+</Label>
+<Label>
+  <Name>Left Pallidum</Name>
+  <Number>56</Number>
+  <RGBColor>12 48 255</RGBColor>
+</Label>
+<Label>
+  <Name>Left PoG   postcentral gyrus</Name>
+  <Number>177</Number>
+  <RGBColor>0 255 127</RGBColor>
+</Label>
+<Label>
+  <Name>Left PrG   precentral gyrus</Name>
+  <Number>183</Number>
+  <RGBColor>238 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left Putamen</Name>
+  <Number>58</Number>
+  <RGBColor>236 13 176</RGBColor>
+</Label>
+<Label>
+  <Name>Left SCA   subcallosal area</Name>
+  <Number>187</Number>
+  <RGBColor>238 201 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left SCLC  supracalcarine cortex</Name>
+  <Number>189</Number>
+  <RGBColor>102 205 170</RGBColor>
+</Label>
+<Label>
+  <Name>Left SFG   superior frontal gyrus</Name>
+  <Number>191</Number>
+  <RGBColor>255 218 185</RGBColor>
+</Label>
+<Label>
+  <Name>Left SMC   supplementary motor cortex</Name>
+  <Number>193</Number>
+  <RGBColor>238 130 238</RGBColor>
+</Label>
+<Label>
+  <Name>Left SMG   supramarginal gyrus</Name>
+  <Number>195</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Left SOG   superior occipital gyrus</Name>
+  <Number>197</Number>
+  <RGBColor>255 192 203</RGBColor>
+</Label>
+<Label>
+  <Name>Left SPL   superior parietal lobule</Name>
+  <Number>199</Number>
+  <RGBColor>245 222 179</RGBColor>
+</Label>
+<Label>
+  <Name>Left STG   superior temporal gyrus</Name>
+  <Number>201</Number>
+  <RGBColor>208 32 144</RGBColor>
+</Label>
+<Label>
+  <Name>Left TMP   temporal pole</Name>
+  <Number>203</Number>
+  <RGBColor>34 139 34</RGBColor>
+</Label>
+<Label>
+  <Name>Left TTG   transverse temporal gyrus</Name>
+  <Number>207</Number>
+  <RGBColor>0 0 128</RGBColor>
+</Label>
+<Label>
+  <Name>Left Thalamus Proper</Name>
+  <Number>60</Number>
+  <RGBColor>0 118 14</RGBColor>
+</Label>
+<Label>
+  <Name>Left TrIFG triangular part of the inferior frontal gyrus</Name>
+  <Number>205</Number>
+  <RGBColor>127 255 212</RGBColor>
+</Label>
+<Label>
+  <Name>Left Ventral DC</Name>
+  <Number>62</Number>
+  <RGBColor>165 42 42</RGBColor>
+</Label>
+<Label>
+  <Name>Left vessel</Name>
+  <Number>64</Number>
+  <RGBColor>160 32 240</RGBColor>
+</Label>
+<Label>
+  <Name>Optic Chiasm</Name>
+  <Number>69</Number>
+  <RGBColor>255 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>RED</Name>
+  <Number>97</Number>
+  <RGBColor>255 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right ACgG  anterior cingulate gyrus</Name>
+  <Number>100</Number>
+  <RGBColor>255 62 150</RGBColor>
+</Label>
+<Label>
+  <Name>Right AIns  anterior insula</Name>
+  <Number>102</Number>
+  <RGBColor>160 82 45</RGBColor>
+</Label>
+<Label>
+  <Name>Right AOrG  anterior orbital gyrus</Name>
+  <Number>104</Number>
+  <RGBColor>165 42 42</RGBColor>
+</Label>
+<Label>
+  <Name>Right Accumbens Area</Name>
+  <Number>23</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right Amygdala</Name>
+  <Number>31</Number>
+  <RGBColor>103 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right Amygdala Anterior</Name>
+  <Number>33</Number>
+  <RGBColor>103 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right AnG   angular gyrus</Name>
+  <Number>106</Number>
+  <RGBColor>205 91 69</RGBColor>
+</Label>
+<Label>
+  <Name>Right Basal Forebrain</Name>
+  <Number>76</Number>
+  <RGBColor>180 180 180</RGBColor>
+</Label>
+<Label>
+  <Name>Right CO    central operculum</Name>
+  <Number>112</Number>
+  <RGBColor>135 206 235</RGBColor>
+</Label>
+<Label>
+  <Name>Right Calc  calcarine cortex</Name>
+  <Number>108</Number>
+  <RGBColor>100 149 237</RGBColor>
+</Label>
+<Label>
+  <Name>Right Caudate</Name>
+  <Number>36</Number>
+  <RGBColor>122 186 220</RGBColor>
+</Label>
+<Label>
+  <Name>Right Cerebellum Exterior</Name>
+  <Number>38</Number>
+  <RGBColor>96 204 96</RGBColor>
+</Label>
+<Label>
+  <Name>Right Cerebellum White Matter</Name>
+  <Number>40</Number>
+  <RGBColor>220 248 164</RGBColor>
+</Label>
+<Label>
+  <Name>Right Cerebral Exterior</Name>
+  <Number>42</Number>
+  <RGBColor>205 62 78</RGBColor>
+</Label>
+<Label>
+  <Name>Right Cerebral White Matter</Name>
+  <Number>44</Number>
+  <RGBColor>225 225 225</RGBColor>
+</Label>
+<Label>
+  <Name>Right CgG   cingulate gyrus</Name>
+  <Number>110</Number>
+  <RGBColor>100 50 100</RGBColor>
+</Label>
+<Label>
+  <Name>Right Cun   cuneus</Name>
+  <Number>114</Number>
+  <RGBColor>250 128 114</RGBColor>
+</Label>
+<Label>
+  <Name>Right Ent   entorhinal area</Name>
+  <Number>116</Number>
+  <RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right FO    frontal operculum</Name>
+  <Number>118</Number>
+  <RGBColor>221 160 221</RGBColor>
+</Label>
+<Label>
+  <Name>Right FRP   frontal pole</Name>
+  <Number>120</Number>
+  <RGBColor>0 238 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right FuG   fusiform gyrus</Name>
+  <Number>122</Number>
+  <RGBColor>205 92 92</RGBColor>
+</Label>
+<Label>
+  <Name>Right GRe   gyrus rectus</Name>
+  <Number>124</Number>
+  <RGBColor>176 48 96</RGBColor>
+</Label>
+<Label>
+  <Name>Right Hippocampus</Name>
+  <Number>47</Number>
+  <RGBColor>220 216 20</RGBColor>
+</Label>
+<Label>
+  <Name>Right IFG   inferior frontal gyrus</Name>
+  <Number>126</Number>
+  <RGBColor>0 206 209</RGBColor>
+</Label>
+<Label>
+  <Name>Right IOG   inferior occipital gyrus</Name>
+  <Number>128</Number>
+  <RGBColor>152 251 152</RGBColor>
+</Label>
+<Label>
+  <Name>Right IOrG  intermediate orbital gyrus</Name>
+  <Number>130</Number>
+  <RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right ITG   inferior temporal gyrus</Name>
+  <Number>132</Number>
+  <RGBColor>50 205 50</RGBColor>
+</Label>
+<Label>
+  <Name>Right Inf Lat Vent</Name>
+  <Number>49</Number>
+  <RGBColor>196 58 250</RGBColor>
+</Label>
+<Label>
+  <Name>Right Insula</Name>
+  <Number>66</Number>
+  <RGBColor>80 196 98</RGBColor>
+</Label>
+<Label>
+  <Name>Right LOrG  lateral orbital gyrus</Name>
+  <Number>136</Number>
+  <RGBColor>173 216 230</RGBColor>
+</Label>
+<Label>
+  <Name>Right Lateral Ventricle</Name>
+  <Number>51</Number>
+  <RGBColor>120 18 134</RGBColor>
+</Label>
+<Label>
+  <Name>Right Lesion</Name>
+  <Number>53</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right LiG   lingual gyrus</Name>
+  <Number>134</Number>
+  <RGBColor>0 100 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right MCgG  middle cingulate gyrus</Name>
+  <Number>138</Number>
+  <RGBColor>153 50 204</RGBColor>
+</Label>
+<Label>
+  <Name>Right MFC   medial frontal cortex</Name>
+  <Number>140</Number>
+  <RGBColor>160 32 240</RGBColor>
+</Label>
+<Label>
+  <Name>Right MFG   middle frontal gyrus</Name>
+  <Number>142</Number>
+  <RGBColor>0 206 209</RGBColor>
+</Label>
+<Label>
+  <Name>Right MOG   middle occipital gyrus</Name>
+  <Number>144</Number>
+  <RGBColor>51 50 135</RGBColor>
+</Label>
+<Label>
+  <Name>Right MOrG  medial orbital gyrus</Name>
+  <Number>146</Number>
+  <RGBColor>173 255 47</RGBColor>
+</Label>
+<Label>
+  <Name>Right MPoG  postcentral gyrus medial segment</Name>
+  <Number>148</Number>
+  <RGBColor>122 135 50</RGBColor>
+</Label>
+<Label>
+  <Name>Right MPrG  precentral gyrus medial segment</Name>
+  <Number>150</Number>
+  <RGBColor>135 50 74</RGBColor>
+</Label>
+<Label>
+  <Name>Right MSFG  superior frontal gyrus medial segment</Name>
+  <Number>152</Number>
+  <RGBColor>218 112 214</RGBColor>
+</Label>
+<Label>
+  <Name>Right MTG   middle temporal gyrus</Name>
+  <Number>154</Number>
+  <RGBColor>240 230 140</RGBColor>
+</Label>
+<Label>
+  <Name>Right OCP   occipital pole</Name>
+  <Number>156</Number>
+  <RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right OFC   orbitofrontal cortex</Name>
+  <Number>158</Number>
+  <RGBColor>255 110 180</RGBColor>
+</Label>
+<Label>
+  <Name>Right OFuG  occipital fusiform gyrus</Name>
+  <Number>160</Number>
+  <RGBColor>0 255 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right OpIFG opercular part of the inferior frontal gyrus</Name>
+  <Number>162</Number>
+  <RGBColor>100 50 100</RGBColor>
+</Label>
+<Label>
+  <Name>Right Operculum</Name>
+  <Number>68</Number>
+  <RGBColor>60 58 210</RGBColor>
+</Label>
+<Label>
+  <Name>Right OrIFG orbital part of the inferior frontal gyrus</Name>
+  <Number>164</Number>
+  <RGBColor>178 34 34</RGBColor>
+</Label>
+<Label>
+  <Name>Right PCgG  posterior cingulate gyrus</Name>
+  <Number>166</Number>
+  <RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right PCu   precuneus</Name>
+  <Number>168</Number>
+  <RGBColor>39 64 139</RGBColor>
+</Label>
+<Label>
+  <Name>Right PHG   parahippocampal gyrus</Name>
+  <Number>170</Number>
+  <RGBColor>255 99 71</RGBColor>
+</Label>
+<Label>
+  <Name>Right PIns  posterior insula</Name>
+  <Number>172</Number>
+  <RGBColor>255 69 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right PO    parietal operculum</Name>
+  <Number>174</Number>
+  <RGBColor>210 180 140</RGBColor>
+</Label>
+<Label>
+  <Name>Right POrG  posterior orbital gyrus</Name>
+  <Number>178</Number>
+  <RGBColor>74 155 60</RGBColor>
+</Label>
+<Label>
+  <Name>Right PP    planum polare</Name>
+  <Number>180</Number>
+  <RGBColor>255 215 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right PT    planum temporale</Name>
+  <Number>184</Number>
+  <RGBColor>46 139 87</RGBColor>
+</Label>
+<Label>
+  <Name>Right Pallidum</Name>
+  <Number>55</Number>
+  <RGBColor>12 48 255</RGBColor>
+</Label>
+<Label>
+  <Name>Right PoG   postcentral gyrus</Name>
+  <Number>176</Number>
+  <RGBColor>0 255 127</RGBColor>
+</Label>
+<Label>
+  <Name>Right PrG   precentral gyrus</Name>
+  <Number>182</Number>
+  <RGBColor>238 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right Putamen</Name>
+  <Number>57</Number>
+  <RGBColor>236 13 176</RGBColor>
+</Label>
+<Label>
+  <Name>Right SCA   subcallosal area</Name>
+  <Number>186</Number>
+  <RGBColor>238 201 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right SCLC  supracalcarine cortex</Name>
+  <Number>188</Number>
+  <RGBColor>102 205 170</RGBColor>
+</Label>
+<Label>
+  <Name>Right SFG   superior frontal gyrus</Name>
+  <Number>190</Number>
+  <RGBColor>255 218 185</RGBColor>
+</Label>
+<Label>
+  <Name>Right SMC   supplementary motor cortex</Name>
+  <Number>192</Number>
+  <RGBColor>238 130 238</RGBColor>
+</Label>
+<Label>
+  <Name>Right SMG   supramarginal gyrus</Name>
+  <Number>194</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>Right SOG   superior occipital gyrus</Name>
+  <Number>196</Number>
+  <RGBColor>255 192 203</RGBColor>
+</Label>
+<Label>
+  <Name>Right SPL   superior parietal lobule</Name>
+  <Number>198</Number>
+  <RGBColor>245 222 179</RGBColor>
+</Label>
+<Label>
+  <Name>Right STG   superior temporal gyrus</Name>
+  <Number>200</Number>
+  <RGBColor>208 32 144</RGBColor>
+</Label>
+<Label>
+  <Name>Right TMP   temporal pole</Name>
+  <Number>202</Number>
+  <RGBColor>34 139 34</RGBColor>
+</Label>
+<Label>
+  <Name>Right TTG   transverse temporal gyrus</Name>
+  <Number>206</Number>
+  <RGBColor>0 0 128</RGBColor>
+</Label>
+<Label>
+  <Name>Right Thalamus Proper</Name>
+  <Number>59</Number>
+  <RGBColor>0 118 14</RGBColor>
+</Label>
+<Label>
+  <Name>Right TrIFG triangular part of the inferior frontal gyrus</Name>
+  <Number>204</Number>
+  <RGBColor>127 255 212</RGBColor>
+</Label>
+<Label>
+  <Name>Right Ventral DC</Name>
+  <Number>61</Number>
+  <RGBColor>165 42 42</RGBColor>
+</Label>
+<Label>
+  <Name>Right vessel</Name>
+  <Number>63</Number>
+  <RGBColor>160 32 240</RGBColor>
+</Label>
+<Label>
+  <Name>Unlabeled</Name>
+  <Number>1</Number>
+  <RGBColor>0 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>Vitamin E Tablet</Name>
+  <Number>74</Number>
+  <RGBColor>236 217 151</RGBColor>
+</Label>
+<Label>
+  <Name>YELLOW</Name>
+  <Number>98</Number>
+  <RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+  <Name>aals</Name>
+  <Number>2</Number>
+  <RGBColor>50 205 50</RGBColor>
+</Label>
+<Label>
+  <Name>ahls</Name>
+  <Number>3</Number>
+  <RGBColor>255 160 122</RGBColor>
+</Label>
+<Label>
+  <Name>anterior_occipital</Name>
+  <Number>86</Number>
+  <RGBColor>0 160 96</RGBColor>
+</Label>
+<Label>
+  <Name>calcarine</Name>
+  <Number>5</Number>
+  <RGBColor>127 255 212</RGBColor>
+</Label>
+<Label>
+  <Name>central</Name>
+  <Number>6</Number>
+  <RGBColor>238 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>central_insular</Name>
+  <Number>7</Number>
+  <RGBColor>200 160 223</RGBColor>
+</Label>
+<Label>
+  <Name>central_vermal_sulcus</Name>
+  <Number>90</Number>
+  <RGBColor>160 17 159</RGBColor>
+</Label>
+<Label>
+  <Name>cingulate</Name>
+  <Number>8</Number>
+  <RGBColor>34 139 34</RGBColor>
+</Label>
+<Label>
+  <Name>circular</Name>
+  <Number>9</Number>
+  <RGBColor>208 32 144</RGBColor>
+</Label>
+<Label>
+  <Name>collateral</Name>
+  <Number>10</Number>
+  <RGBColor>173 255 47</RGBColor>
+</Label>
+<Label>
+  <Name>first_transverse</Name>
+  <Number>12</Number>
+  <RGBColor>240 230 140</RGBColor>
+</Label>
+<Label>
+  <Name>frontomarginal</Name>
+  <Number>80</Number>
+  <RGBColor>160 32 240</RGBColor>
+</Label>
+<Label>
+  <Name>inferior_frontal</Name>
+  <Number>14</Number>
+  <RGBColor>50 205 50</RGBColor>
+</Label>
+<Label>
+  <Name>inferior_rostral</Name>
+  <Number>81</Number>
+  <RGBColor>255 99 35</RGBColor>
+</Label>
+<Label>
+  <Name>inferior_temporal</Name>
+  <Number>82</Number>
+  <RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+  <Name>inferior_vermal_sulcus</Name>
+  <Number>91</Number>
+  <RGBColor>25 161 161</RGBColor>
+</Label>
+<Label>
+  <Name>intraparietal</Name>
+  <Number>16</Number>
+  <RGBColor>176 48 96</RGBColor>
+</Label>
+<Label>
+  <Name>lateral</Name>
+  <Number>85</Number>
+  <RGBColor>67 68 217</RGBColor>
+</Label>
+<Label>
+  <Name>lateral_occipital</Name>
+  <Number>18</Number>
+  <RGBColor>245 222 179</RGBColor>
+</Label>
+<Label>
+  <Name>lateral_orbital</Name>
+  <Number>83</Number>
+  <RGBColor>255 165 0</RGBColor>
+</Label>
+<Label>
+  <Name>lateral_vermal_sulcus</Name>
+  <Number>92</Number>
+  <RGBColor>157 29 29</RGBColor>
+</Label>
+<Label>
+  <Name>lhos</Name>
+  <Number>87</Number>
+  <RGBColor>188 210 238</RGBColor>
+</Label>
+<Label>
+  <Name>mhos</Name>
+  <Number>88</Number>
+  <RGBColor>238 92 66</RGBColor>
+</Label>
+<Label>
+  <Name>occ_temporal</Name>
+  <Number>19</Number>
+  <RGBColor>205 91 69</RGBColor>
+</Label>
+<Label>
+  <Name>olfactory</Name>
+  <Number>20</Number>
+  <RGBColor>255 192 203</RGBColor>
+</Label>
+<Label>
+  <Name>pals</Name>
+  <Number>22</Number>
+  <RGBColor>255 160 122</RGBColor>
+</Label>
+<Label>
+  <Name>par_occipital</Name>
+  <Number>21</Number>
+  <RGBColor>238 130 238</RGBColor>
+</Label>
+<Label>
+  <Name>phls</Name>
+  <Number>24</Number>
+  <RGBColor>176 48 96</RGBColor>
+</Label>
+<Label>
+  <Name>postcentral</Name>
+  <Number>25</Number>
+  <RGBColor>238 201 0</RGBColor>
+</Label>
+<Label>
+  <Name>precentral</Name>
+  <Number>26</Number>
+  <RGBColor>218 112 214</RGBColor>
+</Label>
+<Label>
+  <Name>primary_inter</Name>
+  <Number>17</Number>
+  <RGBColor>95 158 160</RGBColor>
+</Label>
+<Label>
+  <Name>subparietal</Name>
+  <Number>27</Number>
+  <RGBColor>250 128 114</RGBColor>
+</Label>
+<Label>
+  <Name>superior_frontal</Name>
+  <Number>28</Number>
+  <RGBColor>255 62 150</RGBColor>
+</Label>
+<Label>
+  <Name>superior_rostral</Name>
+  <Number>84</Number>
+  <RGBColor>0 206 209</RGBColor>
+</Label>
+<Label>
+  <Name>superior_temporal</Name>
+  <Number>29</Number>
+  <RGBColor>255 0 0</RGBColor>
+</Label>
+<Label>
+  <Name>superior_vermal_sulcus</Name>
+  <Number>89</Number>
+  <RGBColor>102 153 49</RGBColor>
+</Label>
+<Label>
+  <Name>thos</Name>
+  <Number>93</Number>
+  <RGBColor>157 29 29</RGBColor>
+</Label>
+</LabelList>
