@@ -13,7 +13,7 @@ make -j 4 # This might take a while
 
 cp ../Scripts/* bin
 # Mac users change bashrc to bash_profile
-echo export ANTSPATH=~/multi-atlas-segmentation/ANTs/bin/bin/ >> ~/.bashrc 
+echo export ANTSPATH=`pwd`/bin/ >> ~/.bashrc 
 source ~/.bashrc
 ```
 
