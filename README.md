@@ -2,6 +2,8 @@
 
 This repo has script and data for multi atlas segmentation of brain anatomy with [ANTs](http://stnava.github.io/ANTs/) package.
 
+A blog post explaininng Multi Atlas Segmentation: http://blog.qure.ai/notes/brain-anatomy-segmentation
+
 To run the script, you need to install ANTs. Follow these instructions to build ANTs from source:
 
 ```bash
